@@ -1,6 +1,6 @@
 ## Interesting notes:
 
-The provided commands in the default ZVM repo for linux seems to make it only work when the user is in root (I have not actually read the commands yet):
+The provided commands in the default ZVM repo for linux seems to make it only work when the user is in root (I have not actually read the commands yet, i suspect that it is the binary path issue as i did not compile from source):<br>
 ![image](https://github.com/user-attachments/assets/914dad34-b4ff-4e0d-97fa-0627f8ba7526)
 <br>
 ![image](https://github.com/user-attachments/assets/d8840655-b97f-4f87-9f50-278daa61ffbb)
